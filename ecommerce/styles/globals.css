@@ -209,11 +209,15 @@ a {
 .banner-desc .left p{
   margin:18px;
 }
+
+
+
 .footer-banner-image{
   position: absolute;
   top: -25%;
   left: 25%;
 }
+
 .banner-desc .right{
   line-height: 1.4;
 }
@@ -227,6 +231,27 @@ a {
 .banner-desc .right .company-desc{
   font-size: 14px;
   font-weight: 300;
+}
+
+.cart-wrapper{
+  width: 100vw;
+  background: rgba(0, 0, 0, 0.5);
+  position: fixed;
+  right: 0;
+  top: 0;
+  z-index: 100;
+  /* will-change: transform; */
+  transition: all 1s ease-in-out;
+
+}
+.cart-container{
+  height: 100vh;
+  width: 600px;
+  background-color: white;
+  float: right;
+  padding: 40px 10px;
+  position: relative;
+  
 }
 
 .footer-container{
@@ -246,6 +271,37 @@ a {
   font-size: 30px;
   display: flex;
   gap: 10px;
+}
+
+.cart-heading{
+  display: flex;
+  align-items: center;
+  font-size: 18px;
+  font-weight: 500;
+  cursor: pointer;
+  gap: 2px;
+  margin-left: 10px;
+  border: none;
+  background-color: transparent;
+}
+
+.cart-heading .heading{
+  margin-left: 10px;
+}
+.cart-num-items{
+  margin-left: 10px;
+  color: #f02d34;
+}
+.empty-cart{
+  margin:40px;
+  text-align:center;
+}
+.empty-cart h3{
+  font-weight: 600;
+  font-size: 20px;
+}
+.cancel{
+  cursor: pointer;
 }
 
 .product-detail-container{
