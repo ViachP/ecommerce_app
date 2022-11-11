@@ -6,4 +6,4 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ### [Live Site]()
 
-![ECommerce App](https://i.ibb.co/LdswDhD/sneakers.png)
+![ECommerce App](https://i.ibb.co/3sNnchz/sneakers.png)

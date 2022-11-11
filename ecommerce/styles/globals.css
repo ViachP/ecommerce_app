@@ -143,7 +143,7 @@ span.text-red {
 }
 
 .hero-banner-container {
-  padding: 100px 40px;
+  padding: 80px 40px;
   background-color: #dcdcdc;
   border-radius: 15px;
   position: relative;
@@ -153,32 +153,37 @@ span.text-red {
 
 }
 
+.banner-sneakers {
+  margin-bottom: 15px;
+}
+
 .hero-banner-container .banner-sneakers {
   font-size: 20px;
 }
 
 .hero-banner-container button {
   border-radius: 15px;
- padding: 10px 16px;
- background-color: #f02d34;
- color: white;
- border: none;
- margin-top: 40px;
- font-size: 18px;
- font-weight: 500;
- cursor: pointer;
- z-index:10000 !important;
+  padding: 10px 16px;
+  background-color: #f02d34;
+  color: white;
+  border: none;
+  margin-top: 40px;
+  font-size: 18px;
+  font-weight: 500;
+  cursor: pointer;
+  z-index:10000 !important;
 }
 
 .hero-banner-container h3 {
   font-size: 4rem;
   margin-top: 4px;
+  margin-bottom: 15px;
 }
 
 .hero-banner-container h1 {
   color: white;
   font-size: 8em;
-  margin-left: -20px;
+  margin-left: -10px;
   text-transform: uppercase;
 }
 
