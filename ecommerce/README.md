@@ -7,3 +7,5 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 ### [Live Site]()
 
 ![ECommerce App](https://i.ibb.co/3sNnchz/sneakers.png)
+![Cart](https://i.ibb.co/t8kcPsw/Cart.png)
+![Shopping Cart](https://i.ibb.co/sjy9Y6m/Shopping-Cart.png)
