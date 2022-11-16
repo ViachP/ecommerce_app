@@ -11,7 +11,7 @@ export default async function handler(req, res) {
         payment_method_types: ['card'],
         billing_address_collection: 'auto',
         shipping_options: [
-            {shipping_rate: 'shr_1M09reIJxYaMkKufQGP4UXCR'},
+            {shipping_rate: 'shr_1M4o3xIJxYaMkKufLNdaMsXz'},
         ],
 
         line_items: req.body.map((item) => {
