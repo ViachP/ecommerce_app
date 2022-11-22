@@ -1,6 +1,6 @@
 {
   "name": "ecommerce",
-  "license": "MIT",
+  "license" : "BSD-3-Clause",
   "version": "0.1.0",
   "private": true,
   "scripts": {
